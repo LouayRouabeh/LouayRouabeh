@@ -1,4 +1,3 @@
-### Hi there 👋
 
 # Hello, I'm Louay Rouabeh 👋
 
@@ -33,8 +32,8 @@ Thank you for visiting my GitHub profile! Let's innovate and build something gre
 
 You can find me on:
 - Email: [louayrouabeh46@gmail.com]
-- LinkedIn: [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/louay-rouabeh/))
-- Twitter/X: [Twitter|X](https://twitter.com/RouabehL)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/louay-rouabeh/)
+- Twitter/X: [Twitter](https://twitter.com/RouabehL)
 
 <!--
 **LouayRouabeh/LouayRouabeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
