@@ -31,7 +31,6 @@ Feel free to reach out if you're interested in working together or if you have a
 Thank you for visiting my GitHub profile! Let's innovate and build something great together.
 
 You can find me on:
-- Email: [louayrouabeh46@gmail.com]
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/louay-rouabeh/)
 - Twitter/X: [Twitter](https://twitter.com/RouabehL)
 
